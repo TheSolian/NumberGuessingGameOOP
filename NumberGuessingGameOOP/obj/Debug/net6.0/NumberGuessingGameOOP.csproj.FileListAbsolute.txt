@@ -1,0 +1,17 @@
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\bin\Debug\net6.0\NumberGuessingGameOOP.exe
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\bin\Debug\net6.0\NumberGuessingGameOOP.deps.json
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\bin\Debug\net6.0\NumberGuessingGameOOP.runtimeconfig.json
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\bin\Debug\net6.0\NumberGuessingGameOOP.dll
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\bin\Debug\net6.0\NumberGuessingGameOOP.pdb
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\bin\Debug\net6.0\Figgle.dll
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\obj\Debug\net6.0\NumberGuessingGameOOP.csproj.AssemblyReference.cache
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\obj\Debug\net6.0\NumberGuessingGameOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\obj\Debug\net6.0\NumberGuessingGameOOP.AssemblyInfoInputs.cache
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\obj\Debug\net6.0\NumberGuessingGameOOP.AssemblyInfo.cs
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\obj\Debug\net6.0\NumberGuessingGameOOP.csproj.CoreCompileInputs.cache
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\obj\Debug\net6.0\NumberGuessingGameOOP.csproj.CopyComplete
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\obj\Debug\net6.0\NumberGuessingGameOOP.dll
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\obj\Debug\net6.0\refint\NumberGuessingGameOOP.dll
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\obj\Debug\net6.0\NumberGuessingGameOOP.pdb
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\obj\Debug\net6.0\NumberGuessingGameOOP.genruntimeconfig.cache
+D:\Dateien\Schule\BBB\320\Projekte\NumberGuessingGameOOP\NumberGuessingGameOOP\obj\Debug\net6.0\ref\NumberGuessingGameOOP.dll
