@@ -1,13 +1,13 @@
 ﻿namespace NumberGuessingGameOOP;
 
-public class Game
+public class NumberGuesser
 {
     private int _secretNumber;
     private int _guess;
     private int _numberOfGuesses = 0;
     private readonly string _startScreenText;
 
-    public Game(string startScreenText)
+    public NumberGuesser(string startScreenText)
     {
         _startScreenText = startScreenText;
     }
